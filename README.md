@@ -169,7 +169,7 @@ On clicking on a particular button , the command will take place accordingly.
 - <b>Mr. Samnit Mehandiratta</b> <a href="https://www.linkedin.com/in/lankabhedi/"> <img width=15x src=https://user-images.githubusercontent.com/50140975/128177441-45e52062-fbe8-426d-9bbe-8d5554a30f78.png></a>
 
 ### Team Members:
-- <b>Mr. Devansh Shaw</b> <a href="https://www.linkedin.com/in/riya-singh-b00b26158"> <img width=15px src=https://user-images.githubusercontent.com/50140975/128177441-45e52062-fbe8-426d-9bbe-8d5554a30f78.png></a>: Project Brainstorming/Requirement Analysis, Project Programming and Development, and Feature Implementation and UI Design
+- <b>Mr. Devansh Shaw</b> <a href="https://www.linkedin.com/in/devansh-shaw"> <img width=15px src=https://user-images.githubusercontent.com/50140975/128177441-45e52062-fbe8-426d-9bbe-8d5554a30f78.png></a>: Project Brainstorming/Requirement Analysis, Project Programming and Development, and Feature Implementation and UI Design
 
 
 - <b>Ms. Khushi Roy</b> <a href="https://www.linkedin.com/in/khushi-roy"> <img width=15px src=https://user-images.githubusercontent.com/50140975/128177441-45e52062-fbe8-426d-9bbe-8d5554a30f78.png></a>: Project Brainstorming/Requirement Analysis, Project Programming and Development, and Feature Implementation and UI Design
