@@ -182,3 +182,19 @@ On clicking on a particular button , the command will take place accordingly.
 
 
 - <b>Ms. Krithi Rai</b> <a href="http://linkedin.com/in/krithi-rai-777610187"> <img width=15px src=https://user-images.githubusercontent.com/50140975/128177441-45e52062-fbe8-426d-9bbe-8d5554a30f78.png></a>: Written the Statement of Work
+
+<hr>
+
+## Some Glimpses
+![image](https://user-images.githubusercontent.com/50140975/128181030-fbb661b6-5f2f-4b01-9d9b-8e7651a0ffcf.png)
+
+![image](https://user-images.githubusercontent.com/50140975/128181061-cb681013-d3df-462e-9e57-a618f46f9090.png)
+
+![image](https://user-images.githubusercontent.com/50140975/128181092-bbfac74e-fd47-47d4-98a8-fc0ee25cc07d.png)
+
+![image](https://user-images.githubusercontent.com/50140975/128181129-69f13285-00e3-4d19-9aef-f528a9deb948.png)
+
+![image](https://user-images.githubusercontent.com/50140975/128181174-bbf4965a-7a3b-4a9d-ab75-06202ad18777.png)
+
+![image](https://user-images.githubusercontent.com/50140975/128181322-96127013-b15a-4816-b2ca-42b621c6d4e1.png)
+
