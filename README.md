@@ -32,6 +32,29 @@ To use this module in your code you need to import its and command for the same 
 import os
 ```
 
+### 4. Pywhatkit
+Python offers numerous inbuilt libraries to ease our work. Among them pywhatkit is a Python library for sending WhatsApp messages at a certain time, it has several other features too.
+
+Following are some features of pywhatkit module:
+
+1. Send WhatsApp messages.
+2. Play a YouTube video.
+3. Perform a Google Search.
+4. Get information on particular topic.
+
+In Python3 pywhatkit module will not come pre-installed, so you can install it by using the command:
+
+```python3
+pip install pywhatkit
+```
+
+You can import it using:
+
+```python3
+import pywhatkit
+```
+
+
 After importing Libraries and modules, now it's time to create a basic window where we will add our UI elements.
 
 ### MusicPlayer Class
